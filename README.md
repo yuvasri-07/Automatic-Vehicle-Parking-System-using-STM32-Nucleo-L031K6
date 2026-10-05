@@ -338,6 +338,9 @@ while (1)
 
 ## Expected Output
 
+<img width="1036" height="764" alt="image" src="https://github.com/user-attachments/assets/6e1ee666-f42f-473d-a99f-86340a80fe6d" />
+
+
 ### Initially – Both Slots Available
 
 ~~~text
